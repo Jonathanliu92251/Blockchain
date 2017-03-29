@@ -12,3 +12,5 @@ Role play for *Car Leasing* business flow, to show how a blockchain transfers as
 Setup **Blockchain Service**, view **Blockchain Explorer**, interact with **Blockchain Peers**
 
 [Developer **Chaincode**](/labs/Lab3 - Blockchain Unchained) - create and deploy Chaincode to Blockchain Service
+
+[aaa](https://github.com/Jonathanliu92251/Blockchain/blob/master/try-on-Bluemix/Lab1%20-%20Blockchain%20Explained.pdf)
