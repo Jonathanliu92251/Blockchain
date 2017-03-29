@@ -3,7 +3,7 @@
 
 ## IBM Blockchain Hands-On Series
 
-* [Understand Blockchain Concepts](/try-on-Bluemix/Lab1 - Blockchain Explained.pdf) 
+* [Understand Blockchain Concepts](try-on-Bluemix/Lab1%20-%20Blockchain%20Explained.pdf) 
 
 Role play for *Car Leasing* business flow, to show how a blockchain transfers assets between participants.
 
