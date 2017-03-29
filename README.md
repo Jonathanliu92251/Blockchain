@@ -25,25 +25,21 @@
 
 ## IBM开源技术微讲堂《区块链和HyperLedger系列》
 
-1. [第一讲《区块链商用之道》](http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html)
-
-
+| 1 | [第一讲《区块链商用之道》](http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html) |
+|:------:|:----------------:|
 |内容摘要|区块链的核心价值是什么？</br>进入区块链2.0时代，人们开始关心区块链这项“黑科技”如何在产业中得以运用。商用区块链需要具备什么要素？区块链的产业实践从哪几个方面着手？</br>IBM正在以自身的创新能力在全球推动区块链的发展。那么，IBM是如何构建全球最大的基于区块链技术的供应链金融平台？国内的顶级金融机构在区块链方面又是和IBM怎样合作的？</br>为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？ |
-|:------|:----------------|
 |录像链接|http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html|
 |课后问卷|https://wj.qq.com/s/1135778/87b7|
 
-2. [第二讲《Hyperledger项目与社区概览》](http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html)
-
-|内容摘要|介绍 Linux Foundation 旗下的开源区块链项目 Hyperledger。通过本次学习，可以了解到 Hyperledger 项目的诞生和进展，所包括的众多子项目，以及社区的活动和发展状况|
+| 2 | ** [第二讲《Hyperledger项目与社区概览》](http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html) ** |
 |------|:----------------|
+|内容摘要|介绍 Linux Foundation 旗下的开源区块链项目 Hyperledger。通过本次学习，可以了解到 Hyperledger 项目的诞生和进展，所包括的众多子项目，以及社区的活动和发展状况|
 |录像链接| http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html|
 |课后问卷| https://wj.qq.com/s/1165388/b239 |
 
-3. 第三讲 HyperLedger Fabric架构解析
-
+| 3 | ** 第三讲 HyperLedger Fabric架构解析 ** |
+|------:|:----------------|
 |内容摘要|介绍HyperLedger架构从0.6到1.0的演进，包括：总体架构、运行时架构，特点等等，讲解HyperLedger的安装过程，最后演示IBM Bluemix上的区块链服务|
-|:------:|:----------------|
 |录像链接| [《HyperLedger Fabric架构解析》](http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html) </br> [《Bluemix上的区块链服务》](http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html)|
 |课后问卷| https://wj.qq.com/s/1188794/d618 |
 
