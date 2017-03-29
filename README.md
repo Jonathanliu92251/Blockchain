@@ -34,7 +34,7 @@
 
 
 | 第二讲 | **[《Hyperledger项目与社区概览》](http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html)** |
-|:---------:|:----------------|
+|---------    |:----------------|
 |内容摘要|介绍 Linux Foundation 旗下的开源区块链项目 Hyperledger。通过本次学习，可以了解到 Hyperledger 项目的诞生和进展，所包括的众多子项目，以及社区的活动和发展状况|
 |录像链接| http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html |
 |课后问卷| https://wj.qq.com/s/1165388/b239 |
