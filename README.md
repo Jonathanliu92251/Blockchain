@@ -36,7 +36,7 @@
 * 为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？ 
     
 |录像链接|http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html|
-|<---|----------------|
+|:---|:----------------|
 |课后问卷|https://wj.qq.com/s/1135778/87b7|
 
 2. [第二讲《Hyperledger项目与社区概览》](http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html)
