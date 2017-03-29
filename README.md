@@ -26,8 +26,8 @@
 ## IBM开源技术微讲堂《区块链和HyperLedger系列》
 
 | 第一讲 |**[《区块链商用之道》](http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html)** |
-|------  |:----------------|
-|内容摘要|<ol>区块链的核心价值是什么？</ol></br><ol>进入区块链2.0时代，人们开始关心区块链这项“黑科技”如何在产业中得以运用。商用区块链需要具备什么要素？区块链的产业实践从哪几个方面着手？</ol></br><ol>IBM正在以自身的创新能力在全球推动区块链的发展。那么，IBM是如何构建全球最大的基于区块链技术的供应链金融平台？国内的顶级金融机构在区块链方面又是和IBM怎样合作的？</ol></br><ol>为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？</ol> |
+|--- |:----------------|
+|内容摘要|<li>区块链的核心价值是什么？</li></br><li>进入区块链2.0时代，人们开始关心区块链这项“黑科技”如何在产业中得以运用。商用区块链需要具备什么要素？区块链的产业实践从哪几个方面着手？</li></br><li>IBM正在以自身的创新能力在全球推动区块链的发展。那么，IBM是如何构建全球最大的基于区块链技术的供应链金融平台？国内的顶级金融机构在区块链方面又是和IBM怎样合作的？</li></br><li>为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？</li> |
 |录像链接|http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html|
 |课后问卷|https://wj.qq.com/s/1135778/87b7|
 | 第二讲 | **[《Hyperledger项目与社区概览》](http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html)** |
@@ -38,7 +38,7 @@
 |内容摘要|介绍HyperLedger架构从0.6到1.0的演进，包括：总体架构、运行时架构，特点等等，讲解HyperLedger的安装过程，最后演示IBM Bluemix上的区块链服务|
 |录像链接| [《HyperLedger Fabric架构解析》](http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html) </br> [《Bluemix上的区块链服务》](http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html)|
 |课后问卷| https://wj.qq.com/s/1188794/d618 |
-| **第四讲 | [ChainCode实战](http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html]** |
+| 第四讲 | **[ChainCode实战](http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html]** |
 |内容摘要|详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。目的是让听者了解Fabric中Chaincode的原理以及可以上手开发自己的Chaincode程序| 
 | 录像链接 |http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html |
 | 课后问卷| https://wj.qq.com/s/1212449/7ae7 |
