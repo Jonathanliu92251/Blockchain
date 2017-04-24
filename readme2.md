@@ -1,4 +1,4 @@
-# 区块链 技术摘要
+# 区块链 技术简介
 
 
 ## 问与答
@@ -89,12 +89,12 @@ With new material before going to External site & IBM Confidential Material
 
 ## 1. 什么是区块链？ - 区块链简介、相关术语 
 
-### 区块链 相关术语
-
+### 区块链 技术术语
+<div>
 <table border="1px" bordercolor="#000000" cellspacing="0px" >
                 <tr>
                     <th width="15%">英文</th>
-                    <th width="15%">中文</td>
+                    <th width="15%">中文</th>
                     <th>解释</th>
                 </tr>
                 <tr>
