@@ -365,16 +365,12 @@ With new material before going to External site & IBM Confidential Material
             
 <tr>
                 <td>
-                <td>
                     <b>05 HyperLedger 中的共享账本</b>
 <br><b>内容简介</b>
                     <br>介绍HyperLedger 的共享账本
 <br><b>录像链接<b>
 <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
                 </td>
-
-</td>
-
 </tr>
 
 <tr>
