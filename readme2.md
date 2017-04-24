@@ -90,7 +90,8 @@ With new material before going to External site & IBM Confidential Material
 ## 1. 什么是区块链？ - 区块链简介、相关术语 
 
 ### 区块链 相关术语
-            <table border="1px" bordercolor="#000000" cellspacing="0px" >
+
+<table border="1px" bordercolor="#000000" cellspacing="0px" >
                 <tr>
                     <th width="15%">英文</th>
                     <th width="15%">中文</td>
@@ -261,14 +262,11 @@ With new material before going to External site & IBM Confidential Material
                     <td><b>交易</b></td>
                     <td>Chaincode的invoke或instantiate操作。Invoke是从ledger中请求read/write set；Instantiate是请求在peer上启动Chaincode容器。</td>
                 </tr>
-            </table>
-            <div>
-```
+</table>
 
 ## 2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能
 
-```html
-    <div>
+<div>
             <table border="1px" bordercolor="#000000" cellspacing="0px" >
             <tr>
                 <th width="30%">实验手册</th>
@@ -312,12 +310,11 @@ With new material before going to External site & IBM Confidential Material
                     <br> 如何创建、部署 Chaincode </br>
                 </td>
             </tr>
-        </table>
-        
+        </table>
+</div>
 
 ## 3. 专家讲堂 - 深入探讨区块链的各个模组
 
-```html
 <div>
             <table border="1px" bordercolor="#000000" cellspacing="0px" >
             <tr>
@@ -368,6 +365,5 @@ With new material before going to External site & IBM Confidential Material
             </tr>
         </table>
 </div>
-```
 
 ## 4. 技能培训 - 由浅入深，区块链系列免费课程  
