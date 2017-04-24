@@ -375,43 +375,40 @@ With new material before going to External site & IBM Confidential Material
 </tr>
 
 <tr>
-                <td>
-                    <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
-                </td>
-                <td>
-                    <b>06 HyperLedger中的共识机制</b>
-                    <br>介绍HyperLedger 的记账方式、共识参与方与共识算法
+<td>
+<a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
+</td>
+<td>
+<b>06 HyperLedger中的共识机制</b>
+<br>介绍HyperLedger 的记账方式、共识参与方与共识算法
+</td>
+</tr>
 
-                </td>
-            </tr>
-            
-      
+<tr>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
+</td>
+<td>
+<b>07 HyperLedger Fabric 中的隐私与安全</b>
+<br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
+<br>交易数据的不可更改
+<br>交易的私密性
+<br>交易的可监管能力
+<br>交易的隐私
+</td>
+</tr>
 
-            <tr>
-                <td>
-                    <a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
-                </td>
-                <td>
-                    <b>07 HyperLedger Fabric 中的隐私与安全</b>
-                    <br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
-<br>- 交易数据的不可更改
-<br>- 交易的私密性
-<br>- 交易的可监管能力
-<br>- 交易的隐私
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
-                </td>
-                <td>
-                    <b>08 HyperLedger 应用案例赏析</b>
-                    <br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
-                </td>
-            </tr>
-            
-            
-        </table>
+<tr>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
+</td>
+<td>
+<b>08 HyperLedger 应用案例赏析</b>
+<br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
+</td>
+</tr>
+
+</table>
 </div>
 
 ## 4. 技能培训 - 由浅入深，区块链系列免费课程  
