@@ -307,7 +307,7 @@ With new material before going to External site & IBM Confidential Material
                 </td>
                 <td>
                     <b>Develop Chaincode </b>
-                    <br> 如何创建、部署 Chaincode </br>
+                    <br> 如何创建、部署 Chaincode
                 </td>
             </tr>
         </table>
@@ -363,6 +363,52 @@ With new material before going to External site & IBM Confidential Material
                     <br>详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。目的是让听者了解Fabric中Chaincode的原理以及可以上手开发自己的Chaincode程序
                 </td>
             </tr>
+                       <tr>
+                <td>
+                    <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
+                </td>
+                <td>
+                    <b>05 HyperLedger 中的共享账本</b>
+                    <br>介绍HyperLedger 的共享账本
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
+                </td>
+                <td>
+                    <b>06 HyperLedger中的共识机制</b>
+                    <br>介绍HyperLedger 的记账方式、共识参与方与共识算法
+
+                </td>
+            </tr>
+            <tr>
+
+            <tr>
+                <td>
+                    <a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
+                </td>
+                <td>
+                    <b>07 HyperLedger Fabric 中的隐私与安全</b>
+                    <br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
+<br>- 交易数据的不可更改
+<br>- 交易的私密性
+<br>- 交易的可监管能力
+<br>- 交易的隐私
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
+                </td>
+                <td>
+                    <b>08 HyperLedger 应用案例赏析</b>
+                    <br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
+                </td>
+            </tr>
+            
+            
         </table>
 </div>
 
