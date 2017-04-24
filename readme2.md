@@ -263,7 +263,7 @@ With new material before going to External site & IBM Confidential Material
                     <td>Chaincode的invoke或instantiate操作。Invoke是从ledger中请求read/write set；Instantiate是请求在peer上启动Chaincode容器。</td>
                 </tr>
 </table>
-
+</div>
 ## 2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能
 
 <div>
@@ -316,99 +316,98 @@ With new material before going to External site & IBM Confidential Material
 ## 3. 专家讲堂 - 深入探讨区块链的各个模组
 
 <div>
-            <table border="1px" bordercolor="#000000" cellspacing="0px" >
+        <table border="1px" bordercolor="#000000" cellspacing="0px" >
             <tr>
                 <th>专题简介</th>
             </tr>
             <tr>
                 <td>
                     <b>01 区块链商用之道</b>
-<br><br><b>内容简介</b>
+                    <br><br><b>内容简介</b>
                     <br>区块链的核心价值是什么？
                     <br>进入区块链2.0时代，人们开始关心区块链这项“黑科技”如何在产业中得以运用。商用区块链需要具备什么要素？区块链的产业实践从哪几个方面着手？
                     <br>IBM正在以自身的创新能力在全球推动区块链的发展。那么，IBM是如何构建全球最大的基于区块链技术的供应链金融平台？国内的顶级金融机构在区块链方面又是和IBM怎样合作的？
                     <br>为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html"> http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html </a>
-</td>
+                    <br><b>录像链接
+                    </b><br>
+                    <a href="http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html"> http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html </a>
+                </td>
             </tr>
             <tr>
                 <td>
                     <b>02 Hyperledger项目与社区概览</b>
-<br><br><b>内容简介</b>
+                    <br><br><b>内容简介</b>
                     <br>介绍 Linux Foundation 旗下的开源区块链项目 Hyperledger。通过本次学习，可以了解到 Hyperledger 项目的诞生和进展，所包括的众多子项目，以及社区的活动和发展状况
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html"> http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html </a>
+                    <br><b>录像链接<b><br>
+                    <a href="http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html"> http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html </a>
                 </td>
             </tr>
             <tr>
                 <td>
                     <b>03 HyperLedger Fabric架构解析</b>
-<br><br><b>内容简介</b>
+                    <br><br><b>内容简介</b>
                     <br>介绍HyperLedger架构从0.6到1.0的演进，包括：总体架构、运行时架构，特点等等，讲解HyperLedger的安装过程，最后演示IBM Bluemix上的区块链服务
-<br><b>录像链接<b><br>
+                    <br><b>录像链接</b><br>
                     HyperLedger Fabric架构解析
-<a href="http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html</a>
+                    <a href="http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html</a>
                     <br>Bluemix上的区块链服务
-<a href="http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html</a>
+                    <a href="http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html</a>
                 </td>
             </tr>
             <tr>
                 <td>
                     <b>04 ChainCode实战</b>
-<br><br><b>内容简介</b>
+                    <br><br><b>内容简介</b>
                     <br>详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。目的是让听者了解Fabric中Chaincode的原理以及可以上手开发自己的Chaincode程序
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html">http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html </a>
+                    <br><b>录像链接</b><br>
+                    <a href="http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html">http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html </a>
                 </td>
             </tr>
             
-<tr>
+            <tr>
                 <td>
                     <b>05 HyperLedger 中的共享账本</b>
-<br><br><b>内容简介</b>
+                    <br><br><b>内容简介</b>
                     <br>介绍HyperLedger 的共享账本
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
+                    <br><b>录像链接</b><br>
+                    <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
                 </td>
-</tr>
+            </tr>
 
-<tr>
-<td>
-<b>06 HyperLedger中的共识机制</b>
-<br><br><b>内容简介</b>
-<br>HyperLedger 的记账方式、共识参与方与共识算法
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
-</td>
-</tr>
+        <tr>
+            <td>
+                    <b>06 HyperLedger中的共识机制</b>
+                    <br><br><b>内容简介</b>
+                    <br>HyperLedger 的记账方式、共识参与方与共识算法
+                    <br><b>录像链接</b><br>
+                    <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>07 HyperLedger Fabric 中的隐私与安全</b>
+                <br><br><b>内容简介</b>
+                <br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
+                <br>交易数据的不可更改
+                <br>交易的私密性
+                <br>交易的可监管能力
+                <br>交易的隐私
+                <br><b>录像链接<b><br>
+                <a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
 
-<tr>
-<td>
-<b>07 HyperLedger Fabric 中的隐私与安全</b>
-<br><br><b>内容简介</b>
-<br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
-<br>交易数据的不可更改
-<br>交易的私密性
-<br>交易的可监管能力
-<br>交易的隐私
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
+            </td>
+        </tr>
 
-</td>
-</tr>
-
-<tr>
-<td>
-<b>08 HyperLedger 应用案例赏析</b>
-<br><br><b>内容简介</b>
-<br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
-<br><b>录像链接<b><br>
-<a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
-</td>
-</tr>
-
-</table>
+        <tr>
+            <td>
+                <b>08 HyperLedger 应用案例赏析</b>
+                <br><br><b>内容简介</b>
+                <br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
+                <br><b>录像链接<b><br>
+                <a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## 4. 技能培训 - 由浅入深，区块链系列免费课程  
