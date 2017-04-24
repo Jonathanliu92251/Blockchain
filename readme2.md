@@ -363,17 +363,18 @@ With new material before going to External site & IBM Confidential Material
                     <br>详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。目的是让听者了解Fabric中Chaincode的原理以及可以上手开发自己的Chaincode程序
                 </td>
             </tr>
-                       <tr>
+            
+<tr>
                 <td>
                     <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
                 </td>
                 <td>
                     <b>05 HyperLedger 中的共享账本</b>
                     <br>介绍HyperLedger 的共享账本
+    </td>
+</tr>
 
-                </td>
-            </tr>
-            <tr>
+<tr>
                 <td>
                     <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
                 </td>
