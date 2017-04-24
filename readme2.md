@@ -90,7 +90,7 @@ With new material before going to External site & IBM Confidential Material
 ## 1. 什么是区块链？ - 区块链简介、相关术语 
 
 ### 区块链 相关术语
-``` html
+```html
 <div>
             <table border="1px" bordercolor="#000000" cellspacing="0px" >
                 <tr>
@@ -321,7 +321,7 @@ With new material before going to External site & IBM Confidential Material
 ## 3. 专家讲堂 - 深入探讨区块链的各个模组
 
 ```html
-</div>
+<div>
             <table border="1px" bordercolor="#000000" cellspacing="0px" >
             <tr>
                 <th width ="30%">专题简介</th>
