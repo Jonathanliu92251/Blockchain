@@ -1,94 +1,18 @@
 # 区块链 技术简介
 
 
-## 问与答
+ [1. 什么是区块链？ - 区块链简介、相关术语](#h10)
 
-### Q01 区块链 和业务应用是什么关系 ？
+ [2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能](#h20)
 
-### Q02 区块链 目前有几种版本? 各运行在哪些运行平台上？
+ [3. 专家讲堂 - 深入探讨区块链的各个模组](#h30)
 
-### Q03 对于支持编写 Chaincode, 有哪几种 SDK ？ 
+ [4. 技能培训 - 由浅入深，区块链系列免费课程](#h40)
 
-### Q04 Chaincode 支持哪些语言的编写，如何发布 ？
-
-### Q5 使用Bluemix平台上的区块链, 有什么好处 ?
-
-### What is Blockchain?
-Blockchain is a shared, replicated ledger that underpins technology such as Bitcoin. Blockchain's reach is wider than cryptocurrency however, as it sets out to provide the foundation for a new generation of transactional applications that establish trust and transparency, while streamlining business processes.
-
- 
-### What is IBM doing about Blockchain?
-
-IBM is offering code, intellectual property and development resource to the Linux Foundation Hyperledger project. This includes a contribution of 44,000 lines of IBM blockchain code, which will help developers explore the use of blockchain in the enterprise as they build secure distributed ledgers.
-
-Blockchain services are available on IBM BlueMix to help developers create private and secure digital assets and transaction instructions. Internet of Things (IoT) data is enabled on blockchain, such as RFID-based location data, barcode-scan event data or device-reported data which can be used with the blockchain fabric.
-
-It is also helping clients and IBMers understand and adopt blockchain through a dedicated engagement team and a set of IBM garages for blockchain application design and implementation in London, New York, Singapore and Tokyo.
-
- 
-### How do I enable my clients for Blockchain?
-
-The engagement team's goal is to help IMTs get up to speed on Blockchain so that they feel comfortable with enabling clients, i.e. leading clients through the initial conversation and demonstration, a hands-on proof of technology and through to first (paid) project. Specifically, the process can be summarised as follows.
-
-1. IBM account lead or IMT lead learns the "Blockchain Explained" deck and demo (see links below).
-2. **Conversation:** IBM account lead or IMT lead delivers "Blockchain Explained" conversation and demonstration. The enablement team can provide remote assistance for any outstanding questions. (During the conversation, it's good practice to offer a hands-on proof of technology. If the customer is interested in this, please let the enablement team know and supply a salesconnect number.)
-3. IBM account lead or IMT lead learns the Proof of Technology material (see links below). The enablement team can provide remote assistance for any outstanding questions.
-4. **Blockchain Hands-On:**  IBM account lead works with IMT lead to deliver Proof of Technology. This is a one day hands-on lab with the morning suitable for business and technical people, and getting more technical as the day goes on.
-5. IBM account lead contacts the Blockchain Engagement team to help identify delivery team for a first (paid) project. The blockchain deal board will help ensure that the correct resources are in place to support the project.
-6. **First Project:**  The project delivery team delivers first project. This starts with a two day design thinking workshop and planning iteration followed by a number of follow-on agile iterations.
-7. IBM account lead works with client to identify initial deployment.
-
-The engagement team is running regular IMT workshops to help the process of IBM enablement, but can also be done on request.
-
-Don't be tempted to short-cut the Conversation > Hands-on > First project engagement model! Importantly, it's designed to progressively qualify an opportunity so you don't waste time and effort early on. And always start with IBM's point of view; if a customer has prior experience of blockchain this can put them at a disadvantage as they can sometimes make assumptions about blockchain that is different from IBM's (business-oriented) opinion. If the customer really does know blockchain then great - you can go through the steps more quickly.
-
-More details on the engagement process can be found in "Blockchain Engaged for IBMers" presentation on Box: <https://ibm.box.com/v/BlockEng>. Start by reading this, educating yourself and if necessary, contact your *local expert*.
-
- 
-### What is the difference between Bitcoin, Blockchain, Hyperledger, Open Blockchain and IBM Blockchain?
-
-**Bitcoin** is an unregulated, censorship resistant cryptocurrency. It uses a blockchain in order to track transfers, and was the first mainstream blockchain application. IBM is not interested in cryptocurrency use-cases.
-
-**Blockchain** is a shared, replicated ledger that can record asset transfers. The term 'blockchain fabric' is often used to describe the platform that user applications connect to in order to interact with such a ledger, as well as the ledger itself. Examples of blockchain fabrics include Bitcoin, Ethereum, Open Blockchain and Hyperledger.
-
-**Hyperledger** is the name of the Linux Foundation project to produce an open blockchain platform that is ready for business. It will provide an implementation of the shared ledger, smart contracts, privacy and consensus mechanisms. It will not provide any value added services (like monitoring or cloud hosting). IBM is one of many sponsors of the Hyperledger project.
-
-**Hyperledger Fabric:** One of two incubator projects being run by the Linux Foundation to test out blockchain capabilities, and consists of contributions by IBM, DAH and others. The other incubator project is called Sawtooth Lake and is sponsored by Intel.
-
-**Open Blockchain** (OBC) was the name of the open source project started by IBM in 2015 to explore the development of a blockchain which supports specific business attributes including; permissions, privacy, confidentiality and auditability. It is written in Go. It implemented a pluggable design (consensus, storage, key management) and a flexible way to write business logic (chaincode). IBM has incorporated much of this code into Hyperledger Fabric.
-
-**IBM Blockchain** is the (current) name of IBM's blockchain offering suite. Today this consists of the IBM Blockchain DevOps Service on Bluemix, which is a beta service and free of charge. The service is currently based on Hyperledger Fabric. IBM also has a limited availability blockchain service on LinuxOne.
-
- 
-### Where can I go for more information?
-
-The community website <http://ibm.biz/BlockchainGang> is the one place for all IBMer enablement of Blockchain. The customer website is <http://www.ibm.com/blockchain>.
-
-The Blockchain Explained deck is one of the most important (and well used) presentations for telling everyone about Blockchain and IBM's point of view: <https://ibm.box.com/BlockExp>. More details can be found on the Blockchain Customer Engagement page of this wiki. The box share that contains all presentations is here: <https://ibm.box.com/BlockchainBox>.
-
-For technical FAQs please go to <http://ibm.biz/BlockTechFAQ>
-
-The blockchain engagement team can be reached over email at [WW Blockchain/UK/IBM](mailto: WW Blockchain/UK/IBM).
-
- 
-### Where do I go for more education?
-
-External, DeveloperWorks Online Blockchain Training
-
- 
-
-Aimed at education developers but starts of at a high level and drills down over 6 hours
-
-- [Blockchain For Developers] (https://developer.ibm.com/courses/all-courses/blockchain-for-developers/)
-
-IBM Internal, Online Blockchain Training
-With new material before going to External site & IBM Confidential Material
-
-- [Blockchain 101] (https://developer.ibm.com/courses/all-courses/blockchain-for-developers/)
+ [5. 问与答 - 区块链常见问题解答](#h50)
 
 
-## 1. 什么是区块链？ - 区块链简介、相关术语 
-
+## <a name="h10">1. 什么是区块链？ - 区块链简介、相关术语 
 ### 区块链 技术术语
 <div>
 <table border="1px" bordercolor="#000000" cellspacing="0px" >
@@ -265,7 +189,7 @@ With new material before going to External site & IBM Confidential Material
     </table>
 </div>
 
-## 2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能
+## <a name="h20">2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能 
 
 <div> <table border="1px" bordercolor="#000000" cellspacing="0px" >
       <tr>
@@ -313,7 +237,7 @@ With new material before going to External site & IBM Confidential Material
   </table>
 </div>
 
-## 3. 专家讲堂 - 深入探讨区块链的各个模组
+## <a name="h30">3. 专家讲堂 - 深入探讨区块链的各个模组 
 
 <div> 
 <table border="1px" bordercolor="#000000" cellspacing="0px">
@@ -367,25 +291,24 @@ With new material before going to External site & IBM Confidential Material
 <tr> <td>
      <b>05 HyperLedger 中的共享账本</b>
      <br><br><b>内容简介</b>
-     <br>介绍HyperLedger 的共享账本
+     <br><b>Ledger －不可篡改伪造的“共享帐本”.</b> HyperLedger中的账本（Ledger），是一种“分布式账本”，也可以想象成一个带着时间戳的、不可伪造的全网共享账本。区块链的所有参与者，都可以持有这个账本的最新数据。这个不可篡改的“共享账本”机制正是区块链的主要价值所在。
      <br><b>录像链接</b><br>
      <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
 </td> </tr>
+
 <tr> <td>
      <b>06 HyperLedger中的共识机制</b>
      <br><br><b>内容简介</b>
-     <br>HyperLedger 的记账方式、共识参与方与共识算法
+     <br><b>共识机制 －多节点达成一致的算法<b> 区块链上的共识机制主要解决由谁来构造区块，以及如何维护区块链统一的问题。共识机制，是驱动区块链运转的发动机，决定着区块链项目的性能和结构。
      <br><b>录像链接</b><br>
-     <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html">http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
+     
+     <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html"> http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
  </td> </tr>
+ 
  <tr> <td>
      <b>07 HyperLedger Fabric 中的隐私与安全</b>
      <br><br><b>内容简介</b>
-     <br>如何使用密码学领域中的技术来解决“分布式账本”的如下需求:
-     <br>交易数据的不可更改
-     <br>交易的私密性
-     <br>交易的可监管能力
-     <br>交易的隐私
+     <br><b>隐私与安全 －区块链商用的关键</b> 区块链采用分布式账本技术，每个参与者都能够获得完整的数据备份。而在商用过程中，不管是银行还是医疗或是其他领域，隐私和安全的要求又非常严格。所以，交易数据的隐私性和安全性就成为了区块链能否商用的关键因素。
      <br><b>录像链接</b><br>
      <a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
  </td> </tr>
@@ -393,11 +316,296 @@ With new material before going to External site & IBM Confidential Material
  <tr> <td>
      <b>08 HyperLedger 应用案例赏析</b>
      <br><br><b>内容简介</b>
-     <br>介绍HyperLedger 的几个典型的应用案例，包括场景、架构和优势等等.
+     <br>“区块链和HyperLedger系列”已经接近尾声了，在学习了HyperLedger的架构、ChainCode、共享账本、共识机制、隐私安全管理之后，本次分享《HyperLedger应用案例赏析》。
      <br><b>录像链接</b><br>
      <a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
+ </td> </tr>
+ 
+ <tr> <td>
+     <b>09 Fabric SDK解析</b>
+     <br><br><b>内容简介</b>
+     <br>要想开发HyperLedger Fabric的应用程序，一定离不开Fabric SDK。Fabric SDK使得客户端应用程序顺利与区块链网络交互，进行操作。
+     <br><b>录像链接</b><br>
+     <a href="http://v.youku.com/v_show/id_XMjczMzQ3ODg2MA==.html">http://v.youku.com/v_show/id_XMjczMzQ3ODg2MA==.html</a>
  </td> </tr>
 </table>
 </div>
 
-## 4. 技能培训 - 由浅入深，区块链系列免费课程  
+
+
+<div>
+<table>
+<tr>
+<td style="width: 5%;"><strong><span style="font-size:10px;">No</span></strong></td>
+<td style="width: 55;"><strong><span style="font-size:10px;">内容概要</span></strong></td>
+<td style="width: 20%;"><strong><span style="font-size:10px;">视频回放及讲义</span></strong></td>
+<td style="width: 20%;"><strong><span style="font-size:10px;">练习及答案</span></strong></td>
+</tr>
+
+<tr>
+<td>01</td>
+<td><b>区块链－开启全新商业模式.</b>
+最初区块链这种技术是随着数字货币被热炒而被逐渐关注，之后人们也开始探讨区块链在金融、制造业、物联网、保险等各个领域的应用场景。那么，区块链的核心价值是什么？区块链这项“黑科技”如何在产业中得以运用？IBM对于区块链的商用之道有什么看法?
+</td>
+<td>
+<a href="http://ibm.biz/hyperledger01" target="_blank">区块链商用之道</a>
+<br>
+<a href="try-on-Bluemix/区块链第一讲.pdf"> 区块链第一讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1135778/87b7" target="_blank">课后练习</a>
+<br>12345, 13, 235
+</td>
+</tr>
+
+<tr>
+<td>02</td>
+<td><b>HyperLedger－Linux基金会下的开源区块链项目.</b>
+超级账本 （HyperLedger）区块链联盟是Linux基金会于2015年发起的推进区块链数字技术和交易验证的开源项目联盟，成员包括以IBM为代表的技术 厂商以及各大型银行、航空等100多家公司，其中有超过1/4的成员都来自中国，是世界上最流行的开源区块链解决方案之一。最初区块链这种技术是随着数字货币被热炒而被逐渐关注，之后人们也开始探讨区块链在金融、制造业、物联网、保险等各个领域的应用场景。那么，区块链的核心价值是什么？区块链这项“黑科技”如何在产业中得以运用？IBM对于区块链的商用之道有什么看法？
+</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html" target="_blank">HyperLedger项目与社区概览</a>
+<br>
+<a href="try-on-Bluemix/区块链第二讲.pdf"> 区块链第二讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1135778/87b7" target="_blank">课后练习</a>
+<br>13, 24, 2
+</td>
+</tr>
+
+<tr>
+<td>03</td>
+<td><b>HyperLedger Fabric －区块链的基石.</b>
+介绍HyperLedger Fabric架构从0.6到1.0的演进，包括：总体架构、运行时架构，特点等等，讲解HyperLedger Fabric的安装过程，最后演示IBM Bluemix上的区块链服务。
+</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html" target="_blank">HyperLedger Fabric架构解读(上)</a>
+<br>
+<a href="http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html" target="_blank">HyperLedger Fabric架构解读(下)</a>
+<br>
+<a href="try-on-Bluemix/区块链第三讲.pdf"> 区块链第三讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1188794/d618" target="_blank">课后练习</a>
+<br>3333, 4444, 1
+</td>
+</tr>
+
+<tr>
+<td>04</td>
+<td><b>ChainCode －智能合约的代码实现.</b>
+详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。
+</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html" target="_blank">ChainCode实战</a>
+<br>
+<a href="try-on-Bluemix/区块链第四讲.pdf"> 区块链第四讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1212449/7ae7" target="_blank">课后练习</a>
+<br>2除外, 12, 1
+</td>
+</tr>
+
+<tr>
+<td>05</td>
+<td><b>Ledger －不可篡改伪造的“共享帐本”.</b>
+主要介绍Fabric v1.0中共享账本的实现原理与机制，同时也会指出v1.0相比v0.6增加的新功能和使用方法的变化。</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html" target="_blank">HyperLedger Fabric中的共享账本</a>
+<br>
+<a href="try-on-Bluemix/区块链第五讲.pdf"> 区块链第五讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1227477/ded6" target="_blank">课后练习</a>
+<br>123, 1, 3
+</td>
+</tr>
+
+<tr>
+<td>06</td>
+<td><b>共识机制 －多节点达成一致的算法.</b>
+区块链上的共识机制主要解决由谁来构造区块，以及如何维护区块链统一的问题。共识机制，是驱动区块链运转的发动机，决定着区块链项目的性能和结构。主要介绍HyperLedger共识机制，包括Hyperledger记账方式，共识参与方和共识算法。</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html" target="_blank">HyperLedger Fabric中的共识机制</a>
+<br>
+<a href="try-on-Bluemix/区块链第六讲.pdf"> 区块链第六讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1266480/9e4c" target="_blank">课后练习</a>
+<br>23, 123, 23
+</td>
+</tr>
+
+<tr>
+<td>07</td>
+<td><b>隐私与安全 －区块链商用的关键.</b>
+如何保障交易数据的不可更改／如何保障交易的私密性／如何保障交易的可监管能力／如何保护交易隐私</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html" target="_blank">HyperLedger Fabric中的隐私与安全</a>
+<br>
+<a href="try-on-Bluemix/区块链第七讲.pdf"> 区块链第七讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1272847/7f82">课后练习</a>
+<br>·3, 1, 4
+</td>
+</tr>
+
+<tr>
+<td>08</td>
+<td><b>HyperLedger应用案例赏析.</b>
+介绍HyperLedger的几个典型的应用案例，包括场景、架构、优势等等。</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html" target="_blank">HyperLedger Fabric应用案例赏析</a>
+<br>
+<a href="try-on-Bluemix/区块链第八讲.pdf"> 区块链第八讲.pdf</a>
+</td>
+<td >
+<a href="https://wj.qq.com/s/1310989/bad7">课后练习</a>
+</td>
+</tr>
+
+<tr>
+<td>09</td>
+<td><b>Hyperledger Fabric SDK解析.</b>
+主要介绍fabric SDK的设计思想和基本功能，以及如何使用fabric SDK，在使用sdk进行开发时应该考虑的一些问题。</td>
+<td>
+<a href="http://v.youku.com/v_show/id_XMjczMzQ3ODg2MA==.html" target="_blank">Fabric实战补充：Hyperledger Fabric SDK解析</a>
+<br>
+<a href="try-on-Bluemix/区块链第九讲.pdf"> 区块链第九讲.pdf</a>
+</td>
+<td >
+</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td><b>Hyperledger Fabric 研究心得 .</b>
+开发者分享：1.研究心得2.Node SDK 是要怎么看啊！3.Golang Chaincode的新玩儿</td>
+<td>
+<a href="try-on-Bluemix/区块链第十讲.pdf"> 区块链第十讲.pdf</a>
+</td>
+<td >
+</td>
+</tr>
+
+</table>
+</div>
+
+
+## <a name="h40">4. 技能培训 - 由浅入深，区块链系列免费课程 
+   
+
+* [区块链技术基础：分布式账本简介](https://www.ibm.com/developerworks/cn/cloud/library/cl-blockchain-basics-intro-bluemix-trs/)
+
+* [IBM Blockchain 101：开发人员快速入门指南](http://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
+
+* [使用 Go 编写智能合约](https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/index.html)
+
+
+* [IBM Blockchain for developers(英文)](https://developer.ibm.com/courses/all-courses/blockchain-for-developers)
+
+
+## <a name="h50">5. 问与答 - 区块链常见问题解答
+
+* 能通俗的解释一下什么是区块链吗？
+
+>答：通俗一点说，区块链技术就指一种全民参与记账的方式。所有的系统背后都有一个数据库，你可以把数据库看成是就是一个大账本。那么谁来记这个账本就变得很重要。目前就是谁的系统谁来记账，微信的账本就是腾讯在记，淘宝的账本就是阿里在记。但现在区块链系统中，系统中的每个人都可以有机会参与记账。在一定时间段内如果有任何数据变化，系统中每个人都可以来进行记账，系统会评判这段时间内记账最快最好的人，把他记录的内容写到账本，并将这段时间内账本内容发给系统内所有的其他人进行备份。这样系统中的每个人都了一本完整的账本。这种方式，我们就称它为区块链技术
+
+* 区块链解决了什么问题吗？
+
+>答：区块链最重要的是解决了中介信用问题。在过去，两个互不认识和信任的人要达成协作是难的，必须要依靠第三方。比如支付行为，在过去任何一种转账，必须要有银行或者支付宝这样的机构存在。但是通过区块链技术，比特币是人类第一次实现在没有任何中介机构参与的情况下，完成双方可以互信的转账行为。这是区块链的重大突破。
+
+* 区块链是比特币吗？或者比特币就是区块链吗？
+
+>答：区块链技术是比特币的底层技术，在早期并没有太多人注意到比特币的底层技术。但是当比特币在没有任何中心化机构运营和管理的情况下，在多年里非常稳定的运行，并且没有出现过任何问题。所以很多人注意到，该底层技术技术也许有很大的机制，而且不仅仅可以在比特币中使用，也许可以在许多领域都能够应用这种技术。于是把比特币技术抽象提取出来，称之为区块链技术，或者分布式账本技术。所以从某个角度来看，比特币可以看成是区块链第一个应用，而区块链更类似于TCP/IP这样的底层技术，以后会扩展到越来越多的行业中。
+
+* 什么是公有链？什么是私有链？什么是联盟链？
+
+>公有链是任何节点都是向任何人开放的，每个人都可以参与到这个区块链中参与计算，而且任何人都可以下载获得完整区块链数据（全部账本）。但是有些区块链的应用场景下，并不希望这个系统任何人都可以参与，任何人都可以查看所有数据，只有被许可的节点才可以参与并且查看所有数据。那么这种区块链结构我们称为私有链。
+
+>联盟链是指参与每个节点的权限都完全对等，大家在不需要完全互信的情况下就可以实现数据的可信交换，R3组成的银行区块链联盟要构建的就是典型的联盟链。
+
+>但是随着区块链技术的快速发展，不排除以后公有链和私有链的界限会变得比较模糊。因为每个节点的可以有较为复杂的读写权限，也许有部分权限的节点会向所有人开发，而部分记账或者核心权限的节点只能向许可的节点开放，那就会不再是纯粹的公有链或者私有链。
+
+* 区块链 和业务应用是什么关系 ？
+
+
+* 区块链 目前有几种版本? 各运行在哪些运行平台上？
+
+* 对于支持编写 Chaincode, 有哪几种 SDK ？ 
+
+* Chaincode 支持哪些语言的编写，如何发布 ？
+
+* 使用Bluemix平台上的区块链, 有什么好处 ?
+
+* What is Blockchain?
+>Blockchain is a shared, replicated ledger that underpins technology such as Bitcoin. Blockchain's reach is wider than cryptocurrency however, as it sets out to provide the foundation for a new generation of transactional applications that establish trust and transparency, while streamlining business processes.
+
+ 
+* What is IBM doing about Blockchain?
+>IBM is offering code, intellectual property and development resource to the Linux Foundation Hyperledger project. This includes a contribution of 44,000 lines of IBM blockchain code, which will help developers explore the use of blockchain in the enterprise as they build secure distributed ledgers.
+>Blockchain services are available on IBM BlueMix to help developers create private and secure digital assets and transaction instructions. Internet of Things (IoT) data is enabled on blockchain, such as RFID-based location data, barcode-scan event data or device-reported data which can be used with the blockchain fabric.
+
+>It is also helping clients and IBMers understand and adopt blockchain through a dedicated engagement team and a set of IBM garages for blockchain application design and implementation in London, New York, Singapore and Tokyo.
+
+ 
+* How do I enable my clients for Blockchain?
+
+>The engagement team's goal is to help IMTs get up to speed on Blockchain so that they feel comfortable with enabling clients, i.e. leading clients through the initial conversation and demonstration, a hands-on proof of technology and through to first (paid) project. Specifically, the process can be summarised as follows.
+
+>1. IBM account lead or IMT lead learns the "Blockchain Explained" deck and demo (see links below).
+>2. **Conversation:** IBM account lead or IMT lead delivers "Blockchain Explained" conversation and demonstration. The enablement team can provide remote assistance for any outstanding questions. (During the conversation, it's good practice to offer a hands-on proof of technology. If the customer is interested in this, please let the enablement team know and supply a salesconnect number.)
+>3. IBM account lead or IMT lead learns the Proof of Technology material (see links below). The enablement team can provide remote assistance for any outstanding questions.
+>4. **Blockchain Hands-On:**  IBM account lead works with IMT lead to deliver Proof of Technology. This is a one day hands-on lab with the morning suitable for business and technical people, and getting more technical as the day goes on.
+>5. IBM account lead contacts the Blockchain Engagement team to help identify delivery team for a first (paid) project. The blockchain deal board will help ensure that the correct resources are in place to support the project.
+>6. **First Project:**  The project delivery team delivers first project. This starts with a two day design thinking workshop and planning iteration followed by a number of follow-on agile iterations.
+>7. IBM account lead works with client to identify initial deployment.
+
+>The engagement team is running regular IMT workshops to help the process of IBM enablement, but can also be done on request.
+
+>Don't be tempted to short-cut the Conversation > Hands-on > First project engagement model! Importantly, it's designed to progressively qualify an opportunity so you don't waste time and effort early on. And always start with IBM's point of view; if a customer has prior experience of blockchain this can put them at a disadvantage as they can sometimes make assumptions about blockchain that is different from IBM's (business-oriented) opinion. If the customer really does know blockchain then great - you can go through the steps more quickly.
+
+>More details on the engagement process can be found in "Blockchain Engaged for IBMers" presentation on Box: <https://ibm.box.com/v/BlockEng>. Start by reading this, educating yourself and if necessary, contact your *local expert*.
+
+ 
+* What is the difference between Bitcoin, Blockchain, Hyperledger, Open Blockchain and IBM Blockchain?
+
+>**Bitcoin** is an unregulated, censorship resistant cryptocurrency. It uses a blockchain in order to track transfers, and was the first mainstream blockchain application. IBM is not interested in cryptocurrency use-cases.
+
+>**Blockchain** is a shared, replicated ledger that can record asset transfers. The term 'blockchain fabric' is often used to describe the platform that user applications connect to in order to interact with such a ledger, as well as the ledger itself. Examples of blockchain fabrics include Bitcoin, Ethereum, Open Blockchain and Hyperledger.
+
+>**Hyperledger** is the name of the Linux Foundation project to produce an open blockchain platform that is ready for business. It will provide an implementation of the shared ledger, smart contracts, privacy and consensus mechanisms. It will not provide any value added services (like monitoring or cloud hosting). IBM is one of many sponsors of the Hyperledger project.
+
+>**Hyperledger Fabric:** One of two incubator projects being run by the Linux Foundation to test out blockchain capabilities, and consists of contributions by IBM, DAH and others. The other incubator project is called Sawtooth Lake and is sponsored by Intel.
+
+>**Open Blockchain** (OBC) was the name of the open source project started by IBM in 2015 to explore the development of a blockchain which supports specific business attributes including; permissions, privacy, confidentiality and auditability. It is written in Go. It implemented a pluggable design (consensus, storage, key management) and a flexible way to write business logic (chaincode). IBM has incorporated much of this code into Hyperledger Fabric.
+
+>**IBM Blockchain** is the (current) name of IBM's blockchain offering suite. Today this consists of the IBM Blockchain DevOps Service on Bluemix, which is a beta service and free of charge. The service is currently based on Hyperledger Fabric. IBM also has a limited availability blockchain service on LinuxOne.
+
+ 
+* Where can I go for more information?
+
+>The community website <http://ibm.biz/BlockchainGang> is the one place for all IBMer enablement of Blockchain. The customer website is <http://www.ibm.com/blockchain>.
+
+>The Blockchain Explained deck is one of the most important (and well used) presentations for telling everyone about Blockchain and IBM's point of view: <https://ibm.box.com/BlockExp>. More details can be found on the Blockchain Customer Engagement page of this wiki. The box share that contains all presentations is here: <https://ibm.box.com/BlockchainBox>.
+
+>For technical FAQs please go to <http://ibm.biz/BlockTechFAQ>
+
+>The blockchain engagement team can be reached over email at [WW Blockchain/UK/IBM](mailto: WW Blockchain/UK/IBM).
+
+ 
+* Where do I go for more education?
+
+>External, DeveloperWorks Online Blockchain Training
+>Aimed at education developers but starts of at a high level and drills down over 6 hours
+
+>- [Blockchain For Developers] (https://developer.ibm.com/courses/all-courses/blockchain-for-developers/)
+
+>IBM Internal, Online Blockchain Training
+With new material before going to External site & IBM Confidential Material
+
+>- [Blockchain 101] (https://developer.ibm.com/courses/all-courses/blockchain-for-developers/)
+
