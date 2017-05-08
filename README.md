@@ -192,149 +192,6 @@
 ## <a name="h20">2. 区块链是如何操作的？ - 动手实验，实例演示区块链的功能 
 
 <div> <table border="1px" bordercolor="#000000" cellspacing="0px" >
-      <tr>
-         <th width="30%">实验手册</th>
-         <th width="70%">实验介绍</th>
-      </tr>
-      <tr>
-         <td>
-           <a href="try-on-Bluemix/BlockchainFundamentalsLabHandoutGithub.pdf"> One-hour Lab for IBM Blockchain Fundamentals</a>
-         </td>
-         <td>
-           <b>01 Blockchain基本操作</b>
-           <br> 在Bluemix平台上，如何申请创建 Blockchain Service
-           <br> 如何部署Blockchain application, smartcontract
-           <br> 如何操作、查看各组件, 调用API
-         </td>
-      </tr>
-      <tr>
-         <td>
-           <a href="try-on-Bluemix/Lab1%20-%20Blockchain%20Explained.pdf"> Understand Blockchain Concepts</a>
-         </td>
-         <td>
-           <b>02 Blockchain 应用剖析</b>
-           <br> "汽车租赁"应用流程为例，通过应用各参与方的相关操作，了解体验区块链的节点、合同等重要概念。
-         </td>
-      </tr>
-      <tr>
-         <td>
-           <a href="try-on-Bluemix/Lab1%20-%20Blockchain%20Explored.pdf">Familiar functions of IBM Blockchain</a>
-         </td>
-         <td>
-           <b>Familiar functions of IBM Blockchain </b>
-           <br>在Bluemix平台上, 如何创建区块链服务、查看区块链各组件、节点之间如何交互
-         </td>
-      </tr>
-      <tr>
-         <td>
-           <a href="try-on-Bluemix/Lab3%20-%20Blockchain%20Unchained">Develop Chaincode</a>
-         </td>
-         <td>
-           <b>Develop Chaincode </b>
-           <br> 如何创建、部署 Chaincode
-         </td>
-      </tr>
-  </table>
-</div>
-
-## <a name="h30">3. 专家讲堂 - 深入探讨区块链的各个模组 
-
-<div> 
-<table border="1px" bordercolor="#000000" cellspacing="0px">
-            <tr>
-                <th>专题简介</th>
-            </tr>
-            <tr>
-                <td>
-                    <b>01 区块链商用之道</b>
-                    <br><br><b>内容简介</b>
-                    <br>区块链的核心价值是什么？
-                    <br>进入区块链2.0时代，人们开始关心区块链这项“黑科技”如何在产业中得以运用。商用区块链需要具备什么要素？区块链的产业实践从哪几个方面着手？
-                    <br>IBM正在以自身的创新能力在全球推动区块链的发展。那么，IBM是如何构建全球最大的基于区块链技术的供应链金融平台？国内的顶级金融机构在区块链方面又是和IBM怎样合作的？
-                    <br>为企业客户服务，和有区块链能力的公司并肩合作，IBM在建立区块链生态方面有哪些计划？
-                    <br><b>录像链接</b><br>
-                    <a href="http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html"> http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html </a>
-                </td>
-            </tr>
-
-<tr>
-               <td>
-                    <b>02 Hyperledger项目与社区概览</b>
-                    <br><br><b>内容简介</b>
-                    <br>介绍 Linux Foundation 旗下的开源区块链项目 Hyperledger。通过本次学习，可以了解到 Hyperledger 项目的诞生和进展，所包括的众多子项目，以及社区的活动和发展状况
-                    <br><b>录像链接</b><br>
-                 <a href="http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html"> http://v.youku.com/v_show/id_XMjYyMTU0MzEwMA==.html </a>
-                </td>
-            </tr>
-
-<tr>
-                <td>
-                    <b>03 HyperLedger Fabric架构解析</b>
-                    <br><br><b>内容简介</b>
-                    <br>介绍HyperLedger架构从0.6到1.0的演进，包括：总体架构、运行时架构，特点等等，讲解HyperLedger的安装过程，最后演示IBM Bluemix上的区块链服务
-                    <br><b>录像链接</b><br>
-                    HyperLedger Fabric架构解析
-                    <a href="http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTAxNjY0NA==.html</a>
-                    <br>Bluemix上的区块链服务
-                    <a href="http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html"> http://v.youku.com/v_show/id_XMjY1MTIzODk0NA==.html</a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <b>04 ChainCode实战</b>
-                    <br><br><b>内容简介</b>
-                    <br>详细介绍Fabric0.6中Chaincode运行的基本原理以及开发调试步骤，简单介绍目前Fabric1.0中关于Chaincode开发的基本内容，并对比0.6介绍相关变化。目的是让听者了解Fabric中Chaincode的原理以及可以上手开发自己的Chaincode程序
-                    <br><b>录像链接</b><br>
-                    <a href="http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html">http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html </a>
-                </td>
-            </tr>
-<tr> <td>
-     <b>05 HyperLedger 中的共享账本</b>
-     <br><br><b>内容简介</b>
-     <br><b>Ledger －不可篡改伪造的“共享帐本”.</b> HyperLedger中的账本（Ledger），是一种“分布式账本”，也可以想象成一个带着时间戳的、不可伪造的全网共享账本。区块链的所有参与者，都可以持有这个账本的最新数据。这个不可篡改的“共享账本”机制正是区块链的主要价值所在。
-     <br><b>录像链接</b><br>
-     <a href="http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html">http://v.youku.com/v_show/id_XMjY3OTE1NTA2OA==.html</a>
-</td> </tr>
-
-<tr> <td>
-     <b>06 HyperLedger中的共识机制</b>
-     <br><br><b>内容简介</b>
-     <br><b>共识机制 －多节点达成一致的算法<b> 区块链上的共识机制主要解决由谁来构造区块，以及如何维护区块链统一的问题。共识机制，是驱动区块链运转的发动机，决定着区块链项目的性能和结构。
-     <br><b>录像链接</b><br>
-     
-     <a href="http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html"> http://v.youku.com/v_show/id_XMjY5MzI0MTM3Mg==.html</a>
- </td> </tr>
- 
- <tr> <td>
-     <b>07 HyperLedger Fabric 中的隐私与安全</b>
-     <br><br><b>内容简介</b>
-     <br><b>隐私与安全 －区块链商用的关键</b> 区块链采用分布式账本技术，每个参与者都能够获得完整的数据备份。而在商用过程中，不管是银行还是医疗或是其他领域，隐私和安全的要求又非常严格。所以，交易数据的隐私性和安全性就成为了区块链能否商用的关键因素。
-     <br><b>录像链接</b><br>
-     <a href="http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html">http://v.youku.com/v_show/id_XMjcwNzY1ODgyNA==.html</a>
- </td> </tr>
-
- <tr> <td>
-     <b>08 HyperLedger 应用案例赏析</b>
-     <br><br><b>内容简介</b>
-     <br>“区块链和HyperLedger系列”已经接近尾声了，在学习了HyperLedger的架构、ChainCode、共享账本、共识机制、隐私安全管理之后，本次分享《HyperLedger应用案例赏析》。
-     <br><b>录像链接</b><br>
-     <a href="http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html">http://v.youku.com/v_show/id_XMjcyMDc0MzQzNg==.html</a>
- </td> </tr>
- 
- <tr> <td>
-     <b>09 Fabric SDK解析</b>
-     <br><br><b>内容简介</b>
-     <br>要想开发HyperLedger Fabric的应用程序，一定离不开Fabric SDK。Fabric SDK使得客户端应用程序顺利与区块链网络交互，进行操作。
-     <br><b>录像链接</b><br>
-     <a href="http://v.youku.com/v_show/id_XMjczMzQ3ODg2MA==.html">http://v.youku.com/v_show/id_XMjczMzQ3ODg2MA==.html</a>
- </td> </tr>
-</table>
-</div>
-
-
-
-<div>
-<table>
 <tr>
 <td style="width: 5%;"><strong><span style="font-size:10px;">No</span></strong></td>
 <td style="width: 55;"><strong><span style="font-size:10px;">内容概要</span></strong></td>
@@ -496,15 +353,10 @@
 
 
 ## <a name="h40">4. 技能培训 - 由浅入深，区块链系列免费课程 
-   
 
 * [区块链技术基础：分布式账本简介](https://www.ibm.com/developerworks/cn/cloud/library/cl-blockchain-basics-intro-bluemix-trs/)
-
 * [IBM Blockchain 101：开发人员快速入门指南](http://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
-
 * [使用 Go 编写智能合约](https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/index.html)
-
-
 * [IBM Blockchain for developers(英文)](https://developer.ibm.com/courses/all-courses/blockchain-for-developers)
 
 
