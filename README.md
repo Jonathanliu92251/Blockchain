@@ -333,18 +333,20 @@
 <br>
 <a href="try-on-Bluemix/区块链第九讲.pdf"> 区块链第九讲.pdf</a>
 </td>
-<td >
+<td>
 </td>
 </tr>
 
 <tr>
 <td>10</td>
-<td><b>Hyperledger Fabric 研究心得 .</b>
+<td><b>Hyperledger Fabric 研究心得.</b>
 开发者分享：1.研究心得2.Node SDK 是要怎么看啊！3.Golang Chaincode的新玩儿</td>
 <td>
+<a href="http://v.youku.com/v_show/id_XMjc1NTIyODk0MA==.html" target="_blank">Hyperledger Fabric 研究心得</a>
+<br>
 <a href="try-on-Bluemix/区块链第十讲.pdf"> 区块链第十讲.pdf</a>
 </td>
-<td >
+<td>
 </td>
 </tr>
 
